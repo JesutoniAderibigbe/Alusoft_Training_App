@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482374606772",
+    "project_id": "alusoft-app",
+    "storage_bucket": "alusoft-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482374606772:android:114726561cfec46cf7dce1",
+        "android_client_info": {
+          "package_name": "com.example.alusoft_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482374606772-kc8is8ehhm6ccs81g6m5gqh82ku15ja7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlEgQaq3PMaLBi_mSqsDoP5Ax6eTNbcCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482374606772-kc8is8ehhm6ccs81g6m5gqh82ku15ja7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
